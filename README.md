@@ -11,3 +11,4 @@ For this project we need to create a summary DataFrame of the ride-sharing data 
 ## Summary
 The three business recommendations to the CEO for addressing any disparities among the city types will be as follows:
 1. 
+1. The weekly sum of fares have been highest for urban city type. More intiatives should be taken to increase the 
