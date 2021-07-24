@@ -10,5 +10,6 @@ For this project we need to create a summary DataFrame of the ride-sharing data 
 
 ## Summary
 The three business recommendations to the CEO for addressing any disparities among the city types will be as follows:
-1. 
-1. The weekly sum of fares have been highest for urban city type. More intiatives should be taken to increase the 
+1. We should aim at reducing the driver count for rural city type as the averange fare is really high compared to urban and suburban city type.
+2. More analysis should be done for suburban city type to analyze if the driver's count should be reduced as the average fare per ride is on the higher side.
+3. The weekly sum of fares have been highest for urban city type. More intiatives should be taken to increase the total rides.
